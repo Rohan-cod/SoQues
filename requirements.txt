@@ -5,7 +5,7 @@ cryptography==3.4.7
 cssselect==0.9.1
 enum34==1.1.10
 idna==2.0
-ipaddress==1.0.14
+ipaddress==1.0.23
 lxml==4.6.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
